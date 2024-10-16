@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <H1 class="abc">The Best<br> Html COde</h1>
+    <H2>The best Course</h2>
+    <h3>The best Course</h3>
+    <h4>The best Course</h4>
+    <h5>The best Course</h5>
+    <h6>The best Course</h6>
+    <!-- it only takes one space -->
+    <p>Lo  rem ipsum dolor sit amet consectetur adipisicing elit. Magnam quo excepturi error ab commodi at totam nesciunt aliquam blanditiis? Amet vitae eaque quam ad voluptate! Enim facilis maxime iusto quod cum est quia a dolor eaque consectetur asperiores, in qu               o soluta praesentium, commodi nulla nobis? Nemo eum fuga, excepturi assumenda commodi sint magni itaque incidunt.</p> <!---->
+    
+
+    
+
+</body>
+</html>
