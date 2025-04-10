@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantics of Html</title>
+</head>
+<body>
+    <header>
+        <h1>Learn to Create Website</h1>
+        <h2>You can learn with hitesh and build your own website</h2>
+        <hgroup>
+    
+        </hgroup>
+
+        <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a hrezf="#">About US</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+               </nav>
+       </header> 
+
+       <article>
+        <hgroup>
+            <h1>Lorem ipsum dolor sit.</h1>
+            <h2>Lorem ipsum dolor sit amet.</h2>
+            <h3>Lorem ipsum dolor sit.</h3>
+            <h4>Lorem ipsum dolor sit amet.</h4>
+            <h5>lorem6</h5>
+            <h4><time datetime="2025-04-10">August</time></h4>
+
+            <section>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus voluptatibus, eligendi similique voluptatum optio iste voluptate dicta voluptatem autem deserunt unde nam aliquam exercitationem libero. Quam quibusdam atque in esse sunt beatae dolores placeat?</p>
+            </section>
+            <section>
+                <code>console.log("ali is back")</code>
+            </section>
+        </hgroup>
+       </article>
+
+       <footer>
+        <address>Your Address Here</address>
+        <p>&copy;</p>
+       </footer>
+</body>
+</html>
