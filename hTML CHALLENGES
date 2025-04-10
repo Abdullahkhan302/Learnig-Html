@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> MultiMedia in Html</title>
+</head>
+<body>
+    
+    
+    <!-- Exercise -->
+     <h1 title="This is a tooltip text">My Name is khan</h1>
+<label for="progress"></label>
+<progress value="70" max="100" id="progress"></progress>
+ <p style="color: red; font-weight: bold ;font-size: 18px; font-style: italic;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam nihil assumenda esse, eius, dignissimos labore expedita repudiandae explicabo sint cupiditate earum. Maxime error debitis, sequi in possimus labore. Soluta, nisi!</p>
+ <button style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; border: none;">Submit </button>
+
+ <div class="box" style="padding: 20px; margin: 30px; background-color: blue;"></div>
+
+ <div class="circle" style="width: 100px; height: 100px; border-radius: 100%; background-color: red;"></div>
+ <DIV style="border: 3px; border-style: dashed; border-radius: 10px; width: 200px; height: 100px;">
+
+ </DIV>
+</body>
+</html>
